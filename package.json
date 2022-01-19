@@ -1,0 +1,27 @@
+{
+  "name": "github_topic_usermetrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Pradipta96/github_topic_usermetrics.git"
+  },
+  "author": "Pradipta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C-Pradipta96/github_topic_usermetrics/issues"
+  },
+  "homepage": "https://github.com/C-Pradipta96/github_topic_usermetrics#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0",
+    "@actions/io": "^1.1.1",
+    "https-proxy-agent": "^5.0.0",
+    "nodemailer": "^6.7.2",
+    "octokit": "^1.7.1"
+  }
+}
